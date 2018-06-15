@@ -1,2 +1,2 @@
-import {generateMnemonic} from 'bip39';
-export {generateMnemonic};
+import {bip39} from 'bip39';
+export {bip39};

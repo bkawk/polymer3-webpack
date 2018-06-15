@@ -755,11 +755,11 @@ eval("var g;\n\n// This works in non-strict mode\ng = (function() {\n\treturn th
 /*!********************!*\
   !*** ./webpack.js ***!
   \********************/
-/*! exports provided: generateMnemonic */
+/*! exports provided: bip39 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var bip39__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! bip39 */ \"./node_modules/bip39/index.js\");\n/* harmony import */ var bip39__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(bip39__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"generateMnemonic\", function() { return bip39__WEBPACK_IMPORTED_MODULE_0__[\"generateMnemonic\"]; });\n\n\n\n\n//# sourceURL=webpack:///./webpack.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var bip39__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! bip39 */ \"./node_modules/bip39/index.js\");\n/* harmony import */ var bip39__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(bip39__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"bip39\", function() { return bip39__WEBPACK_IMPORTED_MODULE_0__[\"bip39\"]; });\n\n\n\n\n//# sourceURL=webpack:///./webpack.js?");
 
 /***/ }),
 
